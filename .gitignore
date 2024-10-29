@@ -1,3 +1,6 @@
+driver/
+cookies.pkl
+
 # Ignore Python-related files
 config.py
 setup.py
